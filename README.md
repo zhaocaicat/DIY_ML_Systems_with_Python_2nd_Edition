@@ -1,6 +1,5 @@
-
-#《Python机器学习及实践：从零开始通往Kaggle竞赛之路》第二版开源数据和代码。
-DIY_ML_Systems_with_Python_2nd_Edition
+# 《Python机器学习及实践：从零开始通往Kaggle竞赛之路》第二版开源数据和代码：
+Datasets and tools for the book: DIY_ML_Systems_with_Python_2nd_Edition
 
 ## 原书籍第一版购买地址列表：
 https://books.google.com/books?id=6Ay-swEACAAJ (Google Books) 
