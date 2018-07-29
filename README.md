@@ -3,8 +3,11 @@
 
 # 原书籍第一版购买地址列表：
 https://books.google.com/books?id=6Ay-swEACAAJ (Google Books) 
+
 https://www.amazon.cn/dp/B01M9813G3 (Amazon China) 
+
 https://www.amazon.com/dp/B01M9813G3 (Amazon U.S.)
+
 https://item.jd.com/11983227.html (JD.com) 
 
 
